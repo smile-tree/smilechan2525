@@ -103,6 +103,9 @@
 .overlay.show li:nth-child(4){
   transition-delay: .4s;
 }
+.overlay.show li:nth-child(5){
+  transition-delay: .5s;
+}
 
 
 .background{

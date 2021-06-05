@@ -1,7 +1,7 @@
 'use strict';
 
 {
-  const images=["phototop/p1.jpg","phototop/p2.jpg","phototop/p3.jpg","phototop/p4.jpg","phototop/p5.jpg","phototop/p6.jpg"];
+  const images=["photomain/m1.jpg","photomain/m2.jpg","photomain/m3.jpg","photomain/m4.jpg","photomain/m5.jpg","photomain/m6.jpg","photomain/m7.jpg","photomain/m8.jpg","photomain/m9.jpg","photomain/m10.jpg","photomain/m11.jpg"];
 
   let count=0;
   const slideimage=()=>{
